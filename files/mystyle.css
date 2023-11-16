@@ -1,0 +1,11 @@
+p.dotted {
+  border-style: dotted;
+  border-width: 5px;
+}
+p.dashed {
+  border-style: dashed;
+  border-color: darkblue;
+}
+.solid {
+  border-style: solid;
+}
